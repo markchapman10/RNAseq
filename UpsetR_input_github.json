@@ -1,0 +1,14 @@
+{	
+  "file": "https://raw.githubusercontent.com/markchapman10/RNAseq/master/UpsetR_input_github.csv",
+	"name": "CrossX2 Upset",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Gene Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6 }
+	]
+  
+}
